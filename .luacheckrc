@@ -1,11 +1,11 @@
 
 globals = {
+	"xp_redo", "core",
 	"minetest",
-	"xp_redo"
 }
 
 read_globals = {
-	-- Minetest
+	-- Luanti
 	"vector",
 
 	-- Deps
